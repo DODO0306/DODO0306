@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DODO0306
 - 👀 I’m interested in archery
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and GDScript
 - ⚡ Fun fact: "All our dreams can come true, if we have the courage to pursue them." — Walt Disney
 
 <!---
